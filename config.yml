@@ -1,0 +1,18 @@
+baseURL: https://blog.devontingley.com/
+languageCode: en-us
+title: Devon Tingley
+theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: Just a Blog
+        Content: This is where I ramble about life
+
+    socialIcons: # optional
+        - name: "Patreon"
+          url: "https://patreon.com/devontingley"
+        - name: "Twitter"
+          url: "https://twitter.com/godmaire_"
+        - name: "YouTube"
+          url: "https://youtube.com"
+
