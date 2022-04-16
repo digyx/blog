@@ -3,16 +3,42 @@ languageCode: en-us
 title: Devon Tingley
 theme: PaperMod
 
+copyright: "Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+rssLimit: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # Used for search
+
+menu:
+  main:
+    - name: "Search"
+      url: "search"
+    - name: "Tags"
+      url: "tags"
+
+
+taxonomies:
+  tag: tags
+  # series: series
+
 params:
-    homeInfoParams:
-        Title: Just a Blog
-        Content: This is where I ramble about life
+  defaultTheme: auto
+  ShowReadingTime: true
 
-    socialIcons: # optional
-        - name: "Patreon"
-          url: "https://patreon.com/devontingley"
-        - name: "Twitter"
-          url: "https://twitter.com/godmaire_"
-        - name: "YouTube"
-          url: "https://youtube.com"
+  homeInfoParams:
+      Title: Welcome to the Dregs of My Mind
+      Content: |
+        Honestly, I'm just making it up as I go along.  Most of this content will swing from writing insights to reviews to technical breakdowns.  Just some overall pretty nerdy stuff.
 
+        Don't take anything I write seriously.
+
+  socialIcons:
+    - name: "Twitter"
+      url: "https://twitter.com/DevonTingley"
+    - name: "Gitea"
+      url: "https://dev.vorona.gg/digyx"
+    - name: "RSS"
+      url: "index.xml"
