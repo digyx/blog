@@ -28,6 +28,12 @@ params:
   defaultTheme: auto
   ShowReadingTime: true
 
+  editPost:
+    URL: "https://dev.vorona.gg/digyx/blog/src/branch/main/content"
+    Text: "Suggest changes on Gitea"
+    appendFilePath: true
+
+
   homeInfoParams:
       Title: Welcome to the Dregs of My Mind
       Content: |
@@ -38,6 +44,8 @@ params:
   socialIcons:
     - name: "Twitter"
       url: "https://twitter.com/DevonTingley"
+    - name: "Github"
+      url: "https://github.com/digyx"
     - name: "Gitea"
       url: "https://dev.vorona.gg/digyx"
     - name: "RSS"
