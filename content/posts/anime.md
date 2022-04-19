@@ -1,8 +1,7 @@
 ---
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from least to favourite.
-date:    2022-04-15T21:50:04-04:00
-lastmod: 2022-04-15T21:50:04-04:00
+date: 2022-04-15
 
 ShowToc: true
 
@@ -10,6 +9,8 @@ tags:
   - anime
   - recommendations
 ---
+
+{{< last-modified >}}
 
 This is just a table of anime I've seen recently enough to rank.  They're ordered from least to favourite (with ones I'm currently watching being listed at the top), but I also gave them a more *objective* ranking...if that's even possible.  Yes, I'm biased, no you shouldn't watch Domestic Girlfriend.
 
