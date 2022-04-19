@@ -19,7 +19,6 @@ menu:
     - name: "Tags"
       url: "tags"
 
-
 taxonomies:
   tag: tags
   # series: series
@@ -29,8 +28,8 @@ params:
   ShowReadingTime: true
 
   editPost:
-    URL: "https://dev.vorona.gg/digyx/blog/src/branch/main/content"
-    Text: "Suggest changes on Gitea"
+    URL: "https://github.com/digyx/blog/tree/main/content"
+    Text: "Suggest changes on Github"
     appendFilePath: true
 
 
@@ -47,6 +46,6 @@ params:
     - name: "Github"
       url: "https://github.com/digyx"
     - name: "Gitea"
-      url: "https://dev.vorona.gg/digyx"
+      url: "https://dev.vorona.gg/godmaire"
     - name: "RSS"
       url: "index.xml"

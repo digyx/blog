@@ -8,7 +8,7 @@ tags:
   - short story
 ---
 
-Short(ish) post to sat that my first short story, Blood Oath, is [now available to download on my website](https://vorona.gg/book/BloodOath)!
+Short(ish) post to say that my first short story, Blood Oath, is [now available to download on my website](https://vorona.gg/book/BloodOath)!
 
 I'm pretty happy with how it turned out, but I'm curious how other people will feel about it.  I'd love to do an in-depth analysis of it myself, so I might turn this post into that...yeah, I think I'll do that.  There will be major spoilers, and the story is only *checks notes* 23 pages including the front matter (cover, title page, copyright page), so it shouldn't take more than an hour to read.
 

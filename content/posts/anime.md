@@ -57,7 +57,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 # Reviews
 
-Fight me,
+Fight me.
 
 ## Kaguya-sama: Love is War
 
