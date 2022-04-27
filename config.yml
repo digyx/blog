@@ -46,7 +46,5 @@ params:
       url: "https://twitter.com/DevonTingley"
     - name: "Github"
       url: "https://github.com/digyx"
-    - name: "Gitea"
-      url: "https://dev.vorona.gg/godmaire"
     - name: "RSS"
       url: "index.xml"

@@ -56,6 +56,6 @@ When it comes to the romantic side of their relationship, things are more cut-an
 
 Overall, I really enjoyed writing this story.  I feel that the plot is focused on the right idea and doesn't let itself get too distracted by other things such as unimportant characters and worldbuilding.  I tried my best to slip some tidbits in there about the culture (dominant vs. non-dominant arms, 14-year-old servers, etc.), but I know that focusing on the world rather than the characters would result in an encyclopedia rather than a short story.  The plot itself is quite simple, and I tried to make Asigor's internal conflict the major focus of the story rather than his mission to kill the Queen.  There are, obviously, a ton of things in the world I'd love to explore, and I'm looking forward to writing about them.  I hope you'll be there to read them.
 
-With that, I'm gonna go fry some steaks for dinner.  Let me know if you find any typos (DM me on Twitter or open a PR [here](https://dev.vorona.gg/digyx/blog)).  See you later, my friend.
+With that, I'm gonna go fry some steaks for dinner.  Let me know if you find any typos (DM me on Twitter or open a PR [here](https://github.com/digyx/blog)).  See you later, my friend.
 
 Devon Tingley
