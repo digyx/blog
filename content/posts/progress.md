@@ -14,6 +14,6 @@ These are all codenames for the project and not the actual title.  Some short st
 
 | Name        | Phase       | Progress       |
 | ----------- | ----------- | -------------- |
-| Azure Witch | Final Draft | 31 / 113 pages |
+| Azure Witch | Final Draft | 39 / 114 pages |
 | Voidling    | First Draft | 26 pages       |
-| Etherborn   | Planning    | ???            |
+| Etherborn   | Planning    | Outline (5%)   |

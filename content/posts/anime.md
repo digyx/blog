@@ -31,15 +31,16 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
 | Vivy: Fluorite Eye's Song               | 8      | COMPLETE            |
-| Konosuba                                | 7      | S2 + Movie          |
 | Houseki No Kuni                         | 7      | S1                  |
-| Full Metal Alchemist Brotherhood        | 8      | COMPLETE            |
+| Mushoku Tensei                          | 8      | S1P1                |
+| Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
+| Horimiya                                | 8      | COMPLETE            |
+| Konosuba                                | 7      | S2 + Movie          |
 | That Time I Got Reincarnated as a Slime | 8      | S2                  |
 | Domestic Girlfriend                     | 6      | S1 (finished manga) |
+| Ouran High School Host Club             | 9      | COMPLETE            |
 | Don't Mess With Me Miss Nagatoro        | 7      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
-| Ouran High School Host Club             | 9      | COMPLETE            |
-| Mushoku Tensei                          | 7      | S1P1                |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
 | Little Witch Academia                   | 9      | COMPLETE            |
 | Danmachi                                | 6      | S3                  |
@@ -59,6 +60,20 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 # Reviews
 
 Fight me.
+
+## Horimiya
+
+I have not read the manga yet.
+
+Alright, I have so many mixed feelings about this show.  The main romance in the first four or five episodes?  Legendary.  Genuinely a contender for the best anime I have ever seen.  If that type of pacing continued, it would've easily been a top five, 10/10 anime.  The issue is that it didn't.  The main romance itself was rather well paced, except for their "first time" which felt pseudo-random, and the last few episodes were also genuinely great as well.  The middle is where things seemed to fall apart.  Sakura had her entire character arc in like 8 minutes, Tanihara had two scenes of note which do not make up for, excuse, or even adequately explain his behaviour towards Miyamura in the beginning, and Remi was pushed off to the side so much that I felt a stronger connection to Sawada.
+
+Ah, Sawada, a character who was so slighted that her entire character arc happened off screen, and the audience had to be told about how close she and Miyamura were (not to mention they never even mention _why_ she has a thing for Hori).  Iura at least got most of an episode dedicated to him, even though he never got a proper introduction and was just shu-horned into the main group.  After seeing the later episodes, it makes sense why their stories needed to be there (except Sawada; hers was pretty isolated, even if I loved her character), but that doesn't excuse the lack of space given to make these moments impactful.
+
+Oh my lord, I completely forgot Yanagi was even a character... Yeah, he also just suddenly joined the group with no explanation of how they got close.
+
+On the other hand, some side characters were done incredibly well.  Ishikawa, Yoshikawa, Sengoku, and Shindou all had enough space to actually be real characters rather than plot devices.  Shindou especially since his entire character is, in the anime, designed to bring out another side of Miyamura.  Yoshikawa and Ishikawa's relationship had to be one of the highlights of the final third of the show.  Not only did their relationship feel genuine, but the way both of them went about avoiding admitting anything had been foreshadowed very well in the first third of the show, which made it believable rather than a "oh, I guess that's a thing now".  Sengoku didn't need much characterization outside of the him/Remi episode.  I'm not sure why that felt adequate for him and not for Remi, but, if I had to guess, it has to be that we saw him grow during that and during the show while Remi just stayed static.  Her introduction was also quite lacklustre.  She was foretold to be this irresponsible, mean spirited person, but then she makes a complete 180 the next time she shows up.
+
+Overall, I wanted more.  Twenty-six episodes may not have been enough, especially after seeing how long the manga is, but it would have been a dramatic improvement.  I can overlook some of the pacing issues since they didn't affect the main plot, but that doesn't mean they didn't affect my enjoyment.  I'll add an update after I read the manga.  I have a strong feeling the manga will turn out to be a 9/10 or 10/10.  The anime gives me hope.
 
 ## Kaguya-sama: Love is War
 
