@@ -14,9 +14,15 @@ These are all codenames for the project and not the actual title.  Some short st
 
 | Name        | Phase       | Progress          |
 | ----------- | ----------- | ----------------- |
-| Azure Witch | Final Draft | 40 / 114 pages    |
-| Etherborn   | Outline     | 25%               |
+| Azure Witch | Final Draft | 41 / 114 pages    |
+| Etherborn   | Outline     | 45%               |
 | Voidling    | First Draft | 26 pages (hiatus) |
+
+### 2022-05-22
+
+Let's pretend today's Sunday.
+
+I haven't done much work on Azure Witch in the past week, but I've been doing a fair bit of work on Etherborn.  At this point, I'm about halfway done with outlining the A plot and a quarter of the way done designing the B plot.  I've narrowed down who the main characters will be, the main conflict, and what the climax will be, but there are still a fair amount of details left for me to figure out.  Actually, I have about 14 pages of Etherborn written (all of the prologue and a little under half of chapter one).  Azure Witch will be taking most of my focus this week, though, as I'd like to release it on June 1st still.  It's seeming less likely, but I won't give up.  Just gotta pop in some music and fall into the flow state for a few hours each day.  Seventy pages is a lot, but it's not an impossible amount.  Worst case scenario, I don't mind pushing the date back once more.  As long as I keep making progress, I'll be happy.
 
 ### 2022-05-15
 
