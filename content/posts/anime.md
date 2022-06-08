@@ -34,6 +34,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Houseki No Kuni                         | 7      | S1                  |
 | Mushoku Tensei                          | 8      | S1P1                |
 | Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
+| Komi-san                                | 8      | S1                  |
 | Horimiya                                | 8      | COMPLETE            |
 | Konosuba                                | 7      | S2 + Movie          |
 | That Time I Got Reincarnated as a Slime | 8      | S2                  |
@@ -60,6 +61,18 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 # Reviews
 
 Fight me.
+
+## Komi-San
+
+I don't have nearly as much to say, and that's a good thing.  I really liked it.
+
+The characters were all incredibly unique, the romance between the main characters is adorable, and seeing Komi grow (even if it's slow) is really wholesome.  The pacing felt just right, and the animation was, usually, amazing.  I'm not a fan of the lingering shots on her face designed to make the audience go "wow, she's pretty", but they weren't frequent enough to get annoying.  Yeah, I can't think of much else to praise.
+
+My only issues were with everyone treating Komi as this special person.  The school treating her like a god, the show pointing out that she's a literal babe (and guy) magnet, and the starbucks/subway scenes where the workers read too much into the conversation.  The goddess quirk is...weird, but I can live with it.  The eccentricity of the characters makes it (somewhat) more acceptable.  While the people magnet aspect of her makes no real sense, imo, it's not used enough to detract from the show in a substantial way.  The last one really irks me since situations like ordering food are a perfect opportunity to show how aweful social anxiety can be.  I hope season 2 (season 1 part 2?) delves into this aspect rather than giving Komi an out.  Sure, she gets the wrong order, but the employee bails her out with no effort from her being required.  She needs coping mechanisms, at bare minimum, and while the show is letting her build them in some ways (writing things down, pointing at menu, etc.), they're blatantly ignoring them in this vital aspect.
+
+Rant over, solid show, 8/10.  Season 2 just has to be slightly better to bump it up to a nine.
+
+Oh, wait, fuck you Netflix and your shitty translations.  Dialogue isn't the only thing you need to translate.  A significant portion of the show is communicated via text on screen and that's just not translated the vast majority of the time.  I won't take points off since it's not the show's fault, but I want my dislike of Netflix to be known.
 
 ## Horimiya
 

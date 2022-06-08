@@ -15,8 +15,18 @@ These are all codenames for the project and not the actual title.  Some short st
 | Name        | Phase       | Progress          |
 | ----------- | ----------- | ----------------- |
 | Azure Witch | Final Draft | 41 / 114 pages    |
-| Etherborn   | Outline     | 45%               |
+| Etherborn   | Outline     | 50%               |
 | Voidling    | First Draft | 26 pages (hiatus) |
+
+### 2022-06-07
+
+*whistles nervously*
+
+Azure Witch release date pushed back to July 1st.  No excuses to be made; depression has just been hitting me harder than I previously expected.  I'm solidifying what causes these slumps and what brings me out of them, so I'll hopefully be more engaged this month.
+
+In other news, a staggering amount of Etherborn has been planned.  The magic system used in it has gone through its sixth (I think) iteration, and I'm really happy with where it's at.  I expect there to be some minor changes, but I love the new strucute.  This has been the main thing holding me back as I was struggling with what abilites one side character will have.  Since this is no longer an issue, I have a good feeling about the amount of progress I'll make on the outline.
+
+I do plan on releasing a short story in July as well.  This one will be a continuation of Blood Oath and set several months afterwards.  Asigor and Olivia will be returning, and I've been noodling around with that plot in my noggin.  I won't add it to the progress chart as short stories have a very tight turn around for me.  I wrote Blood Oath in three days and edited it in four (with a few months in between).
 
 ### 2022-05-22
 
