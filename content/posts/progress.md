@@ -14,9 +14,13 @@ These are all codenames for the project and not the actual title.  Some short st
 
 | Name        | Phase       | Progress          |
 | ----------- | ----------- | ----------------- |
-| Azure Witch | Final Draft | 41 / 114 pages    |
+| Azure Witch | Final Draft | 49 / 114 pages    |
 | Etherborn   | Outline     | 50%               |
 | Voidling    | First Draft | 26 pages (hiatus) |
+
+### 2022-06-12
+
+Hey, today's Sunday!  Anyway, I edited 8.5 pages today.  I think I may have found a good system for editing, though I'm not sure I can do it during the week.  It interferes with previous commitments and my existing workouts.  I'll try to adjust.  Editing felt great, and I like where the story is at so far.  I still think the final fight needs some additions (like tripled in size), and that will take a bit of time on my end.  I won't mkae any commitments except a release date on July 1st.
 
 ### 2022-06-07
 
