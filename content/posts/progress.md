@@ -12,11 +12,18 @@ tags:
 
 These are all codenames for the project and not the actual title.  Some short stories share the same codename and title, but most longer projects won't.  I'll try to update this every Sunday, but that's not a guarantee.
 
-| Name        | Phase       | Progress          |
-| ----------- | ----------- | ----------------- |
-| Azure Witch | Final Draft | 49 / 114 pages    |
-| Etherborn   | Outline     | 50%               |
-| Voidling    | First Draft | 26 pages (hiatus) |
+| Name                 | Phase       | Progress          |
+| -------------------- | ----------- | ----------------- |
+| Monthyly Short Story | Outline     | 80%               |
+| Azure Witch          | Final Draft | 74 / 125 pages    |
+| Etherborn            | Outline     | 50%               |
+| Voidling             | First Draft | 26 pages (hiatus) |
+
+### 2022-06-19
+
+Alright, this count doesn't include any editing I'm doing today.  Along with the additional 22 pages I edited (also finally started to include the front matter in the done count), I wrote a nine page epilogue as well.  Before, the story ended abruptly, but this will tie up a fair bit of loose ends while also giving me a lot of room to branch off into another story.  Right now, I'm feeling pretty confident that I'll have the book done by next Sunday.  My schedule is pretty clear for the upcoming week, and my editing speed has literally doubled in the past few days.  Turns out that editing fight scenes is a *lot* slower than dialogue.
+
+No progress updates on Etherborn or Voidling, but the short story to be released on July 15th is mostly planned in my noggin.  Imma overrule my previous decision and start including the short story in the chart.
 
 ### 2022-06-12
 
