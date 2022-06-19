@@ -3,9 +3,16 @@ languageCode: en-us
 title: Devon Tingley
 theme: PaperMod
 
-enableGitInfo: true
 copyright: "Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 rssLimit: 50
+enableGitInfo: true
+
+frontmatter:
+  - lastmod:
+      - lastmod
+      - :git
+      - date
+      - publishDate
 
 outputs:
   home:
