@@ -1,23 +1,29 @@
 ---
 title: "Current Progress"
 summary: A list of current WIPs and their (estimated) progress.
-date: 2022-04-27
+date: 2022-06-28
 weight: 1
 
 tags:
   - writing
 ---
 
-{{< last-modified >}}
-
 These are all codenames for the project and not the actual title.  Some short stories share the same codename and title, but most longer projects won't.  I'll try to update this every Sunday, but that's not a guarantee.
 
 | Name                 | Phase       | Progress          |
 | -------------------- | ----------- | ----------------- |
 | Monthyly Short Story | Outline     | 80%               |
-| Azure Witch          | Final Draft | 74 / 125 pages    |
+| Azure Witch          | Final Draft | 103 / 125 pages   |
 | Etherborn            | Outline     | 50%               |
 | Voidling             | First Draft | 26 pages (hiatus) |
+
+### 2022-06-28
+
+Today is Tuesday, and Azure Witch will be uploaded to the website by Thursday evening for a midnight UTC release.
+
+I'll put it up on Amazon for purchase ($3) sometime Friday.
+
+All that's remaining are 22 pages, the grammar edit, and the final read through.  I understand that very few (if any) people will read this and that these little apragraphs are mostly me talking to myself, but that's alright.  I understand that I'm not a big name author who really anyone cares about, but that's alright.  I use this space as more a space to reflect on me and my behaviour.  The biggest issue I've had editing Azure Witch is just getting started and understanding that any progress is better than no progress.  I set these lofty goals for myself then fail when life comes and slaps me in the face.  Just editing a page a day is sufficient, especially if I only plan on releasing one book a year, and most of those days will result in editing five, ten, or even twenty pages instead.  Today and tomorrow will probably be the last time I edit v1 of Azure Witch, and then Thursday morning will consist of ePub formatting and uploading for release.  I do have to boot up my Windows VM to format the Kindle release since I use Linux, though.
 
 ### 2022-06-19
 

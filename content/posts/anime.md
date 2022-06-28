@@ -1,7 +1,7 @@
 ---
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from least to favourite.
-date: 2022-04-15
+date: 1998-12-01
 
 ShowToc: true
 
