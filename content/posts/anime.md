@@ -22,33 +22,36 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                    | Rating | Status              |
 | --------------------------------------- | ------ | ------------------- |
-| Kaguya-Sama                             | 10     | S3 In progress      |
-| Spy x Family                            |        | S1 in progress      |
-| Shikimori is Not Just a Cutie           |        | S1 in progress      |
-| Ascendance of a Bookworm                | 7      | S3 in progress      |
+| Classroom of the Elite                  |        | Watching...         |
+| The Devil is a Part Timer               |        | Watching...         |
+| Shikimori is Not Just a Cutie           |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | COMPLETE            |
+| Kaguya-Sama                             | 10     | S3                  |
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
+| Spy x Family                            | 9      | S1P1                |
+| Sono Bisque Doll                        | 9      | S1                  |
 | Vivy: Fluorite Eye's Song               | 8      | COMPLETE            |
+| Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
 | Houseki No Kuni                         | 7      | S1                  |
 | Mushoku Tensei                          | 8      | S1P1                |
-| Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
 | Komi-san                                | 8      | S1                  |
 | Horimiya                                | 8      | COMPLETE            |
 | Konosuba                                | 7      | S2 + Movie          |
 | That Time I Got Reincarnated as a Slime | 8      | S2                  |
+| Ascendance of a Bookworm                | 7      | S3                  |
 | Domestic Girlfriend                     | 6      | S1 (finished manga) |
 | Ouran High School Host Club             | 9      | COMPLETE            |
+| Soul Eater                              | 7      | COMPLETE            |
 | Don't Mess With Me Miss Nagatoro        | 7      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
 | Little Witch Academia                   | 9      | COMPLETE            |
 | Danmachi                                | 6      | S3                  |
 | Misfit of Demon King Academy            | 6      | COMPLETE            |
-| Princess Connect: Re Dive               | 8      | S1 (S2 out)         |
-| Soul Eater                              | 7      | COMPLETE            |
-| Kill La Kill                            | 6      | COMPLETE            |
+| Princess Connect: Re Dive               | 7      | S1 (S2 out)         |
+| Kill La Kill                            | 7      | COMPLETE            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
 | Higehiro (High School Runaway)          | 5      | COMPLETE            |
 | My Next Life as a Villainous            | 6      | S1 (S2 out)         |
