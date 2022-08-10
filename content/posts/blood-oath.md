@@ -1,5 +1,5 @@
 ---
-title: "Blood Oath Has Been Released!!"
+title: "Blood Oath Release"
 description: My short story Blood Oath has been released!
 date: 2022-04-17T18:58:00-04:00
 

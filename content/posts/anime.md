@@ -24,46 +24,60 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | --------------------------------------- | ------ | ------------------- |
 | Classroom of the Elite                  |        | Watching...         |
 | The Devil is a Part Timer               |        | Watching...         |
-| Shikimori is Not Just a Cutie           |        | Watching...         |
+| Call of the Night                       |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | COMPLETE            |
 | Kaguya-Sama                             | 10     | S3                  |
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
+| Vanitas no Carte                        | 9      | S1                  |
 | Spy x Family                            | 9      | S1P1                |
 | Sono Bisque Doll                        | 9      | S1                  |
 | Vivy: Fluorite Eye's Song               | 8      | COMPLETE            |
 | Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
 | Houseki No Kuni                         | 7      | S1                  |
-| Mushoku Tensei                          | 8      | S1P1                |
+| Mushoku Tensei                          | 8      | S1                  |
 | Komi-san                                | 8      | S1                  |
 | Horimiya                                | 8      | COMPLETE            |
 | Konosuba                                | 7      | S2 + Movie          |
 | That Time I Got Reincarnated as a Slime | 8      | S2                  |
-| Ascendance of a Bookworm                | 7      | S3                  |
+| Ascendance of a Bookworm                | 8      | S3                  |
 | Domestic Girlfriend                     | 6      | S1 (finished manga) |
 | Ouran High School Host Club             | 9      | COMPLETE            |
 | Soul Eater                              | 7      | COMPLETE            |
+| Tensai Ouji (Genius Prince)             | 6      | S1                  |
 | Don't Mess With Me Miss Nagatoro        | 7      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
 | Little Witch Academia                   | 9      | COMPLETE            |
-| Danmachi                                | 6      | S3                  |
+| Princess Connect: Re Dive               | 7      | COMPLETE            |
+| Danmachi (Light Novel is better)        | 6      | S3                  |
 | Misfit of Demon King Academy            | 6      | COMPLETE            |
-| Princess Connect: Re Dive               | 7      | S1 (S2 out)         |
 | Kill La Kill                            | 7      | COMPLETE            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
+| Shikimori is Not Just a Cutie           | 6      | S1                  |
 | Higehiro (High School Runaway)          | 5      | COMPLETE            |
 | My Next Life as a Villainous            | 6      | S1 (S2 out)         |
 | Wandering Witch Elaina                  | 4      | S1                  |
 | Gleipnir                                | 5      | S1                  |
 | Kakegurui                               | 6      | S2                  |
 | High School DxD                         | 5      | S3 (fuck S4)        |
+| World's Finest Assassin                 | 5      | S1                  |
 | Persona 5 Animation                     | 2      | No                  |
 
 # Reviews
 
 Fight me.
+
+## World's Finest Assassin
+
+The main character has no struggles, the harem girls (Maha and Tarte) are too over the top, the magic system is actually fine, and episode one feels like a bait.  First and third are obvious points, but the harem girls are so wasted.  By the end of season 1, it seems as if the harem girls are only used as a way to show that the main character isn't one of *those* protagonists (aka. perverts).  Rather than doing this in a subtle way, the harem girls are instead sacrificed to "better" the image of the main character.  Yes, this does work, but it's a very weak effect that has no signifiance.  There is no need to go out of the way to prove that the main character is not a pervert.  I won't touch on the ethical issues of the main character being a 40-year-old man and manipulating two children into lusting after him and feeling the need to dedicate their lives to him.  The shallow "I must become the best tool for him" that is Tarte's character disapppoints me.  It makes sense, I guess, but I don't care.  I want better.
+
+The finale was a disappointment.
+
+## Vanitas no Carte
+
+It's been about a month since I've finished season one, and I still crave more.  I'll elaborate more after my second viewing.  It deserves it.
 
 ## Komi-San
 

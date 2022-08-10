@@ -1,7 +1,7 @@
 ---
 title: "Current Progress"
 summary: A list of current WIPs and their (estimated) progress.
-date: 2022-06-28
+date: 2022-08-10
 weight: 1
 
 tags:
@@ -12,10 +12,17 @@ These are all codenames for the project and not the actual title.  Some short st
 
 | Name                 | Phase       | Progress          |
 | -------------------- | ----------- | ----------------- |
-| Monthyly Short Story | Outline     | 80%               |
-| Azure Witch          | Final Draft | 103 / 125 pages   |
-| Etherborn            | Outline     | 50%               |
+| Azure Witch          | Final Draft | 118 / 125 pages   |
+| Etherborn            | Outline     | 60%               |
 | Voidling             | First Draft | 26 pages (hiatus) |
+
+### 2022-08-10
+
+It's been a while.  No ETA on Azure Witch as I've learned that deadlines and I do not mix.  Instead of aiming for a date, I'm aiming to edit at least one page a day.  Yes, this does imply a maximum possible deadline, but I'm going to pretend that it doesn't.  To lessen my cognitive load even more, I'm also suspending the concept of monthly short stories until I have a writing routine stabilized.
+
+Work has been done on Etherborn, and I expect next week to have even more progress made.  The outline phase is strange for me since I'm usually a [pantser](https://whenyouwrite.com/plotter-vs-pantser/), but I've found that having an outline allows me to write faster and without fear.  The lack of guard rails I had for Azure Witch definitely played a part in my anxiety surrounding the final edit.
+
+Anyhow, see y'all on Sunday.
 
 ### 2022-06-28
 
