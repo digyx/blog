@@ -1,7 +1,7 @@
 ---
 title: "Current Progress"
 summary: A list of current WIPs and their (estimated) progress.
-date: 2022-08-10
+date: 2022-09-20
 weight: 1
 
 tags:
@@ -13,8 +13,16 @@ These are all codenames for the project and not the actual title.  Some short st
 | Name                 | Phase       | Progress          |
 | -------------------- | ----------- | ----------------- |
 | Azure Witch          | Final Draft | 118 / 125 pages   |
-| Etherborn            | Outline     | 60%               |
+| Etherborn            | Outline     | 80%               |
 | Voidling             | First Draft | 26 pages (hiatus) |
+
+### 2022-09-12
+
+I wonder how many other people struggle with anticipatory anxiety as much as I do.  The hardest part about writing for me is the moment before I start.  I have my music and "spot" to make it easier to get into the mood and eventually the flow, but actually starting is still incredibly difficult for me.  Writing new material has much leess anxiety for me since I know that I can fix my mistakes in the editing stage, but then I freeze during the editing stage.  Seven pages remaining.  Seven.  That's a small number.  I can honestly finish that right now and by asleep by midnight (currently 10:30PM).  But what does that mean?  I finish the edit, send it off to my girlfriend for a lookover, throw it into ProWritingAid to catch any obvious mistakes that fell through the cracks, and do my final read through, and then publish it.  That's it.  It's done at that point.  What if it's bad?  It might be.  It probably will be when compared to Brandon Sanderson or Helen Scheuerer.  Is that okay?  Can I justify charging people $3 for something that might be bad?
+
+These are the thoughts I'm struggling with.  They're things I keep thinking I've already worked through, but they're obviously not.  The only way to work through them is to actually do them.  I can tell myself as many "if x happens, then y" but I won't actually prove to myself that "y" will happen until I do "x".  In other words, I'm finishing the final edit tonight and tomorrow.
+
+Anyway, Etherborn is going pretty well.  I haven't been writing for the past few months since my brain has said "well, we have to focus on finishing Azure Witch first" but I've recently gotten over that mental block, so I've written a few thousand words for Etherborn this past week as a way to decompress.  The outline is coming together in my mind, but it's not quite there yet.  A few important bits of glue are still missing.  During the writing phase, I've decided to write it non-linearly, so right now I have about ~2k words done of onf ot he final chapters while also having ~3k words done of the first chapter.  Overall, I think that's around 5% of the first draft.  This one will be a full fledged novel.
 
 ### 2022-08-10
 
