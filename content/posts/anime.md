@@ -1,20 +1,22 @@
 ---
 title: "Anime Reviews"
-description: This is just a dump of every anime I've watched listed in order from least to favourite.
-date: 1998-12-01
+description: This is just a dump of every anime I've watched listed in order from favourite to least.
+date: 1970-01-01
+lastmod: 2022-12-17
 
 ShowToc: true
 
 tags:
   - anime
   - recommendations
+  - evergreen
 ---
 
 {{< last-modified >}}
 
-This is just a table of anime I've seen recently enough to rank.  They're ordered from least to favourite (with ones I'm currently watching being listed at the top), but I also gave them a more *objective* ranking...if that's even possible.  Yes, I'm biased, no you shouldn't watch Domestic Girlfriend.
+This is just a table of anime I've seen recently enough to rank.  They're ordered from favourite to least (with ones I'm currently watching being listed at the top), but I also gave them a more *objective* rating...if that's even possible.  Yes, I'm biased.  No, you shouldn't watch Domestic Girlfriend.
 
-To explain the "Status" column, those marked "In progress" with the season listed indicates that I'm currently watching that season.  Those marked with just a season (ex. S2) means I've only watched up until that season, and I try to notate in parenthesis if more has come out since.  Those marked "COMPLETE" have finished their main stories finished.  Sequel shows don't count.  Note that shows that I'm caught up on are not marked complete until their story has finished.
+To explain the "Status" column, those marked "Watching..." with the season listed indicates that I'm currently watching that season.  Those marked with just a season (ex. S2) means I've only watched up until that season, and I try to notate in parenthesis if more has come out since.  Those marked "COMPLETE" have finished their main stories.  Sequel shows count as different shows.  Note that shows that I'm caught up on are not marked complete until their story has finished.
 
 For the hell of it, I'll leave little reviews below the table for some standouts.
 
@@ -22,16 +24,22 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                    | Rating | Status              |
 | --------------------------------------- | ------ | ------------------- |
-| Classroom of the Elite                  |        | Watching...         |
-| The Devil is a Part Timer               |        | Watching...         |
-| Call of the Night                       |        | Watching...         |
+| Spy x Family                            | 9      | Watching...         |
+| Boochi the Rock!                        |        | Watching...         |
+| Cainsaw Man                             |        | Watching...         |
+| Witch From Mercury                      |        | Watching...         |
+| Eminence in Shadow                      |        | Watching...         |
+| Akiba Maid War                          |        | Watching...         |
+| Raven of the Inner Palace               |        | Watching...         |
+| Reincarnated as a Sword                 |        | Watching...         |
+| Urusei Yatsura                          |        | Watching...         |
+| Do It Yourself!!                        |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | COMPLETE            |
 | Kaguya-Sama                             | 10     | S3                  |
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
 | Vanitas no Carte                        | 9      | S1                  |
-| Spy x Family                            | 9      | S1P1                |
 | Sono Bisque Doll                        | 9      | S1                  |
 | Vivy: Fluorite Eye's Song               | 8      | COMPLETE            |
 | Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
@@ -137,7 +145,7 @@ I won't go into spoilers for the Light Novel, but I did find volumes 8, 9, and 1
 
 *sigh*  Alright, so, this is complicated...as an anime, it deserves to be ranked below High School DxD (wow, I just said that), but the manga is sooooooooooooo much better!!
 
-"But Devon, this is an anime list!"
+"But Roman, this is an anime list!"
 
 Yes, but I have nowhere else to talk about this show until I start maintaining a manga list so shh.
 

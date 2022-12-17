@@ -1,16 +1,14 @@
-baseURL: https://blog.vorona.gg/
+baseURL: https://scalio.blog/
 languageCode: en-us
-title: Devon Tingley
+title: Roman Godmaire
 theme: PaperMod
 
 copyright: "Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 rssLimit: 50
-enableGitInfo: true
 
 frontmatter:
   - lastmod:
       - lastmod
-      - :git
       - date
       - publishDate
 
@@ -44,13 +42,13 @@ params:
   homeInfoParams:
       Title: Welcome to the Dregs of My Mind
       Content: |
-        Honestly, I'm just making it up as I go along.  Most of this content will swing from writing insights to reviews to technical breakdowns.  Just some overall pretty nerdy stuff.
+        Honestly, I'm just making it up as I go along.
 
         Don't take anything I write seriously.
 
   socialIcons:
-    - name: "Twitter"
-      url: "https://twitter.com/DevonTingley"
+    - name: "Mastodon"
+      url: "https://mstdn.social/@godmaire"
     - name: "Github"
       url: "https://github.com/digyx"
     - name: "RSS"
