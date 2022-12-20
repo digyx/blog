@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2022-12-17
+lastmod: 2022-12-20
 
 ShowToc: true
 
@@ -16,7 +16,7 @@ tags:
 
 This is just a table of anime I've seen recently enough to rank.  They're ordered from favourite to least (with ones I'm currently watching being listed at the top), but I also gave them a more *objective* rating...if that's even possible.  Yes, I'm biased.  No, you shouldn't watch Domestic Girlfriend.
 
-To explain the "Status" column, those marked "Watching..." with the season listed indicates that I'm currently watching that season.  Those marked with just a season (ex. S2) means I've only watched up until that season, and I try to notate in parenthesis if more has come out since.  Those marked "COMPLETE" have finished their main stories.  Sequel shows count as different shows.  Note that shows that I'm caught up on are not marked complete until their story has finished.
+To explain the "Status" column, those marked "Watching..." with the season listed indicates that I'm currently watching that season.  Those marked with just a season (ex. S2) means I've only watched up until that season, and I try to notate in parenthesis if more has come out since.  Those marked "Complete" have finished their main stories.  Sequel shows count as different shows.  Note that shows that I'm caught up on are not marked complete until their story has finished.
 
 For the hell of it, I'll leave little reviews below the table for some standouts.
 
@@ -35,37 +35,38 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Urusei Yatsura                          |        | Watching...         |
 | Do It Yourself!!                        |        | Watching...         |
 |                                         |        |                     |
-| Your Lie In April                       | 10     | COMPLETE            |
+| Your Lie In April                       | 10     | Complete            |
 | Kaguya-Sama                             | 10     | S3                  |
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
 | Vanitas no Carte                        | 9      | S1                  |
 | Sono Bisque Doll                        | 9      | S1                  |
-| Vivy: Fluorite Eye's Song               | 8      | COMPLETE            |
-| Full Metal Alchemist Brotherhood        | 9      | COMPLETE            |
+| Vivy: Fluorite Eye's Song               | 8      | Complete            |
+| Full Metal Alchemist Brotherhood        | 9      | Complete            |
 | Houseki No Kuni                         | 7      | S1                  |
 | Mushoku Tensei                          | 8      | S1                  |
 | Komi-san                                | 8      | S1                  |
-| Horimiya                                | 8      | COMPLETE            |
+| Horimiya                                | 8      | Complete            |
 | Konosuba                                | 7      | S2 + Movie          |
 | That Time I Got Reincarnated as a Slime | 8      | S2                  |
 | Ascendance of a Bookworm                | 8      | S3                  |
 | Domestic Girlfriend                     | 6      | S1 (finished manga) |
-| Ouran High School Host Club             | 9      | COMPLETE            |
-| Soul Eater                              | 7      | COMPLETE            |
+| Ouran High School Host Club             | 9      | Complete            |
+| Soul Eater                              | 7      | Complete            |
 | Tensai Ouji (Genius Prince)             | 6      | S1                  |
 | Don't Mess With Me Miss Nagatoro        | 7      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
-| Little Witch Academia                   | 9      | COMPLETE            |
-| Princess Connect: Re Dive               | 7      | COMPLETE            |
+| Little Witch Academia                   | 9      | Complete            |
+| Princess Connect: Re Dive               | 7      | Complete            |
 | Danmachi (Light Novel is better)        | 6      | S3                  |
-| Misfit of Demon King Academy            | 6      | COMPLETE            |
-| Kill La Kill                            | 7      | COMPLETE            |
+| Misfit of Demon King Academy            | 6      | Complete            |
+| Kill La Kill                            | 7      | Complete            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
 | Shikimori is Not Just a Cutie           | 6      | S1                  |
-| Higehiro (High School Runaway)          | 5      | COMPLETE            |
+| Higehiro (High School Runaway)          | 5      | Complete            |
 | My Next Life as a Villainous            | 6      | S1 (S2 out)         |
+| Taming the Final Boss, Villainous       | 4      | Complete            |
 | Wandering Witch Elaina                  | 4      | S1                  |
 | Gleipnir                                | 5      | S1                  |
 | Kakegurui                               | 6      | S2                  |
