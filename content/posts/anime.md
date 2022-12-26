@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2022-12-20
+lastmod: 2022-12-25
 
 ShowToc: true
 
@@ -23,24 +23,20 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 # Rankings
 
 | Name                                    | Rating | Status              |
-| --------------------------------------- | ------ | ------------------- |
-| Spy x Family                            | 9      | Watching...         |
-| Boochi the Rock!                        |        | Watching...         |
+|-----------------------------------------|--------|---------------------|
 | Cainsaw Man                             |        | Watching...         |
 | Witch From Mercury                      |        | Watching...         |
 | Eminence in Shadow                      |        | Watching...         |
-| Akiba Maid War                          |        | Watching...         |
-| Raven of the Inner Palace               |        | Watching...         |
-| Reincarnated as a Sword                 |        | Watching...         |
 | Urusei Yatsura                          |        | Watching...         |
-| Do It Yourself!!                        |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | Complete            |
 | Kaguya-Sama                             | 10     | S3                  |
+| Boochi the Rock!                        | 10     | S1                  |
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
 | Vanitas no Carte                        | 9      | S1                  |
 | Sono Bisque Doll                        | 9      | S1                  |
+| Spy x Family                            | 9      | S1                  |
 | Vivy: Fluorite Eye's Song               | 8      | Complete            |
 | Full Metal Alchemist Brotherhood        | 9      | Complete            |
 | Houseki No Kuni                         | 7      | S1                  |
@@ -53,6 +49,8 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Domestic Girlfriend                     | 6      | S1 (finished manga) |
 | Ouran High School Host Club             | 9      | Complete            |
 | Soul Eater                              | 7      | Complete            |
+| Akiba Maid War                          | 8      | Complete            |
+| Raven of the Inner Palace               | 7      | S1                  |
 | Tensai Ouji (Genius Prince)             | 6      | S1                  |
 | Don't Mess With Me Miss Nagatoro        | 7      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
@@ -64,6 +62,8 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Kill La Kill                            | 7      | Complete            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
 | Shikimori is Not Just a Cutie           | 6      | S1                  |
+| Reincarnated as a Sword                 | 5      | S1                  |
+| Do It Yourself!!                        | 6      | Complete            |
 | Higehiro (High School Runaway)          | 5      | Complete            |
 | My Next Life as a Villainous            | 6      | S1 (S2 out)         |
 | Taming the Final Boss, Villainous       | 4      | Complete            |
@@ -77,6 +77,18 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 # Reviews
 
 Fight me.
+
+## Bocchi the Rock
+
+I have never felt more seen before in my life.
+
+As a musician who has always struggled with social anxiety, this show made me feel not only seen but also comforted in knowing that I'm not alone in my thoughts or actions.  Everything from Bocchi's "Oh, I'll take my guitar to school and hope someone notices me!" to her "ah...it seems I am nothing more than a burden to everyone around me" resonates with me incredibly well.  Watching this cringe girl make friends, learn how to socialize, and generally grow as a person warms my heart and gives me hope that I too might be able to overcome the struggles.  Thankfully, the show does not go "Wow!  Look!!  She had a big moment in episode 8, so now all her problems are solved!" but instead shows the real life progression of slow, inconsistent progress over time that looks more like 2 steps forward, 1.9 steps back than a constant march in the direction of "and everything was fine."
+
+Contrasting Bocchi are her three friends who all take up the mantle of a specific social archetype:  Nijika, the loving extrovert, Ryo, the asocial introvert, and Kita, the social butterfly.  While Kita and Bocchi are both the stereotypical "extrovert" and "introvert", Nijika and Ryo exist to show how the terms are actually a definition of how one gains social energy.  Nijika loves being around people, but she's not constanty with someone every single second of the day.  Ryo enjoys life alone, but she has no issue interacting with other people.  These four all compliment each other in subtle ways, such as Kita pulling everyone out of their comfort zones, Nijika taking the lead and being chronically reliable, Ryo being very knowledged about music, and Bocchi always coming in clutch.
+
+Even though this is "merely" a slice of life music show, the animation is absolute god-tier.  Nearly every episode features multiple minutes of unique, expertly produced visuals that are not standard animation.  The best example of this is in episode 7 when Bocchi has a PTSD flashback to a middle school Sports Day, and the show decides to portray this using claymation before switching to a __Fist of the North Star_ style of animation for an absurdly long gag.  The visual comedy in this show surpasses the level of Kaguya-sama in its absurdity, and I love every ounce of it.
+
+Overall, 10/10.  My only gripe is that the finale felt more like the end of a part 1...so I am huffing copium while hoping Bocchi's "Be back later" is a nod to a likely Season 2.
 
 ## World's Finest Assassin
 
