@@ -24,7 +24,6 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                    | Rating | Status              |
 |-----------------------------------------|--------|---------------------|
-| Cainsaw Man                             |        | Watching...         |
 | Witch From Mercury                      |        | Watching...         |
 | Eminence in Shadow                      |        | Watching...         |
 | Urusei Yatsura                          |        | Watching...         |
@@ -35,6 +34,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Bunny Girl Senpai                       | 9      | S1 + Movie          |
 | Re:Zero                                 | 9      | S2                  |
 | Vanitas no Carte                        | 9      | S1                  |
+| Cainsaw Man                             | 9      | S1                  |
 | Sono Bisque Doll                        | 9      | S1                  |
 | Spy x Family                            | 9      | S1                  |
 | Vivy: Fluorite Eye's Song               | 8      | Complete            |
