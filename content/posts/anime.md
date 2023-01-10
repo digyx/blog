@@ -24,9 +24,19 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                    | Rating | Status              |
 |-----------------------------------------|--------|---------------------|
-| Witch From Mercury                      |        | Watching...         |
 | Eminence in Shadow                      |        | Watching...         |
 | Urusei Yatsura                          |        | Watching...         |
+| MagiRevo                                |        | Watching...         |
+| Tomo-Chan is a Girl                     |        | Watching...         |
+| Spy Classroom                           |        | Watching...         |
+| Danmachi (Light Novel is better)        | 6      | Watching S4P2...    |
+| The Angel Next Door Spoils Me Rotten    |        | Watching...         |
+| NieR: Automata Ver1.1a                  |        | Watching...         |
+| Misfit of Demon King Academy            | 6      | Watching S2...      |
+| Don't Mess With Me Miss Nagatoro        | 7      | Watching S2...      |
+| In/Spectre                              | 7      | Watching S2...      |
+| Reborn to Master the Blade              |        | Watching...         |
+| My Life as Inukai-san's Dog             |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | Complete            |
 | Kaguya-Sama                             | 10     | S3                  |
@@ -39,6 +49,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Spy x Family                            | 9      | S1                  |
 | Vivy: Fluorite Eye's Song               | 8      | Complete            |
 | Full Metal Alchemist Brotherhood        | 9      | Complete            |
+| Mobile Suite Gundam: Witch From Mercury | 8      | S1P1                |
 | Houseki No Kuni                         | 7      | S1                  |
 | Mushoku Tensei                          | 8      | S1                  |
 | Komi-san                                | 8      | S1                  |
@@ -52,13 +63,10 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Akiba Maid War                          | 8      | Complete            |
 | Raven of the Inner Palace               | 7      | S1                  |
 | Tensai Ouji (Genius Prince)             | 6      | S1                  |
-| Don't Mess With Me Miss Nagatoro        | 7      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
 | Little Witch Academia                   | 9      | Complete            |
 | Princess Connect: Re Dive               | 7      | Complete            |
-| Danmachi (Light Novel is better)        | 6      | S3                  |
-| Misfit of Demon King Academy            | 6      | Complete            |
 | Kill La Kill                            | 7      | Complete            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
 | Shikimori is Not Just a Cutie           | 6      | S1                  |
