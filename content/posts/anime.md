@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2022-12-25
+lastmod: 2023-02-15
 
 ShowToc: true
 
@@ -24,7 +24,6 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                    | Rating | Status              |
 |-----------------------------------------|--------|---------------------|
-| Eminence in Shadow                      |        | Watching...         |
 | Urusei Yatsura                          |        | Watching...         |
 | MagiRevo                                |        | Watching...         |
 | Tomo-Chan is a Girl                     |        | Watching...         |
@@ -52,6 +51,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Mobile Suite Gundam: Witch From Mercury | 8      | S1P1                |
 | Houseki No Kuni                         | 7      | S1                  |
 | Mushoku Tensei                          | 8      | S1                  |
+| Eminence in Shadow                      | 8      | S1                  |
 | Komi-san                                | 8      | S1                  |
 | Horimiya                                | 8      | Complete            |
 | Konosuba                                | 7      | S2 + Movie          |
