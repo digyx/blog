@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2023-02-15
+lastmod: 2023-03-10
 
 ShowToc: true
 
@@ -36,6 +36,9 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | In/Spectre                              | 7      | Watching S2...      |
 | Reborn to Master the Blade              |        | Watching...         |
 | My Life as Inukai-san's Dog             |        | Watching...         |
+| Revenger                                |        | Watching...         |
+| Kubo Won't Let Me Be Invisible          |        | Watching...         |
+| Onimai                                  |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | Complete            |
 | Kaguya-Sama                             | 10     | S3                  |
@@ -60,12 +63,13 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Domestic Girlfriend                     | 6      | S1 (finished manga) |
 | Ouran High School Host Club             | 9      | Complete            |
 | Soul Eater                              | 7      | Complete            |
+| Little Witch Academia                   | 9      | Complete            |
 | Akiba Maid War                          | 8      | Complete            |
 | Raven of the Inner Palace               | 7      | S1                  |
+| Call of the Night                       | 6      | S1                  |
 | Tensai Ouji (Genius Prince)             | 6      | S1                  |
 | Slime Diaries                           | 8      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
-| Little Witch Academia                   | 9      | Complete            |
 | Princess Connect: Re Dive               | 7      | Complete            |
 | Kill La Kill                            | 7      | Complete            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
@@ -85,6 +89,10 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 # Reviews
 
 Fight me.
+
+## Call of the Night
+
+I think my expectations were too high.  I started watching this when it aired with my girlfriend, but we quickly forgot to keep watching it.  The plot never really interested me (though it did feel as if we just finish up with the exposition), and while the character interactions felt great, they were too far between.  The background art is gorgeous, and I'm down bad for thicker lineart, but the overall style felt a bit underutilized overall.  There were moments, but that's it.  Other absurdly well animated series such as Chainsaw Man never let up while this was...eh.
 
 ## Bocchi the Rock
 
