@@ -1,8 +1,8 @@
 ---
-title: "Deploying Elixir Applications"
+title: "Packaging Elixir Applications"
 description: How to release Elixir apps
 date: 2023-02-15
-lastmod: 2023-02-15
+lastmod: 2023-03-26
 
 tags:
   - programming
@@ -14,7 +14,7 @@ ShowToc: true
 
 Working with elixir can feel euphoric when you're in the zone.  The BEAM VM being built around fault tolerance and inter-process communication that's exposed to you via abstractions such as `GenServer` and `Task`, which are pleasent to work with, means that errors are not more uncommon (such as in Rust) but they shoot you in the foot just as infrequently because a `Supervisor` will just restart your application instead of throwing itself off a cliff.
 
-With all that said, most existing documentation aimed at beginners is for _starting_ a project in Elixir while very few are for deploying it (unless you're using `phoenix`).  Digging into the documentation for `mix release` can feel daunting, so here's my attempt at explaining how to build an Elixir application for deployment.
+With all that said, most existing documentation aimed at beginners is for _starting_ a project in Elixir while very few are for packing it for deployment (unless you're using `phoenix`).  Digging into the documentation for `mix release` can feel daunting, so here's my attempt at explaining how to build an Elixir application for deployment.
 
 The code for this project can be found on [Github](https://github.com/digyx/sydney).
 
@@ -836,7 +836,7 @@ Error relocating /opt/sydney/erts-13.1.4/bin/beam.smp: __gxx_personality_v0: sym
 
 Shit.
 
-What about just using `elixir:alpine` as our deploy stage?  Yeah, sure, we won't save nerely as much, but it should be something...right?
+What about just using `elixir:alpine` as our final stage?  Yeah, sure, we won't save nerely as much, but it should be something...right?
 
 ``` dockerfile
 ...
