@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2023-03-10
+lastmod: 2023-03-26
 
 ShowToc: true
 
@@ -24,7 +24,6 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                    | Rating | Status              |
 | --------------------------------------- | ------ | ------------------- |
-| Urusei Yatsura                          |        | Watching...         |
 | MagiRevo                                |        | Watching...         |
 | Tomo-Chan is a Girl                     |        | Watching...         |
 | Spy Classroom                           |        | Watching...         |
@@ -36,7 +35,6 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | My Life as Inukai-san's Dog             |        | Watching...         |
 | Revenger                                |        | Watching...         |
 | Kubo Won't Let Me Be Invisible          |        | Watching...         |
-| Onimai                                  |        | Watching...         |
 |                                         |        |                     |
 | Your Lie In April                       | 10     | Complete            |
 | Kaguya-Sama                             | 10     | S3                  |
@@ -62,13 +60,15 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Ouran High School Host Club             | 9      | Complete            |
 | Soul Eater                              | 7      | Complete            |
 | Little Witch Academia                   | 9      | Complete            |
+| Slime Diaries                           | 8      | S1                  |
 | Akiba Maid War                          | 8      | Complete            |
+| Urusei Yatsura                          | 7      | S2                  |
 | Don't Mess With Me Miss Nagatoro        | 7      | S2                  |
 | Raven of the Inner Palace               | 7      | S1                  |
+| Onimai                                  | 6      | S1                  |
 | Call of the Night                       | 6      | S1                  |
 | Danmachi (Light Novel is better)        | 6      | S4                  |
 | Tensai Ouji (Genius Prince)             | 6      | S1                  |
-| Slime Diaries                           | 8      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
 | Princess Connect: Re Dive               | 7      | Complete            |
 | Kill La Kill                            | 7      | Complete            |
