@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2023-03-26
+lastmod: 2023-03-30
 
 ShowToc: true
 
@@ -99,6 +99,8 @@ I really wanted to like this one.  [Nagu](https://twitter.com/wooperfuri) is one
 Then it turned into rushed plot (yes, I know they cut a _lot_ compared to the light novel) with very little effort put into the fight scenes.  The whole point of Inglis becoming this fantastical warrior is for her fights to be interesting.  What the fuck was that "finger guns!" scene?  Sure, some people might have liked it, but I am not some people.  Every single "wow, look at how great Inglis is!" scene fell flat, including the final fight in the last episode.  So many other ways of killing big baddie would've felt more satisfying.  Instead, the anime settled back into its normal rhythm of super fast punching...why is that the way they portray all powerful opponents?  Oh, that and big magic lasers.
 
 _sigh_ This one had potential, but it just fell so flat.  Maybe the light novel is better?  Probably not.  That's a shame.
+
+EDIT:  I'm sorry, this went through EIGHT books in one season?!?!  Holy shit...
 
 ## Onimai
 
