@@ -23,15 +23,12 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 # Rankings
 
 | Name                                    | Rating | Status              |
-| --------------------------------------- | ------ | ------------------- |
+|-----------------------------------------|--------|---------------------|
 | MagiRevo                                |        | Watching...         |
-| Tomo-Chan is a Girl                     |        | Watching...         |
 | Spy Classroom                           |        | Watching...         |
 | The Angel Next Door Spoils Me Rotten    |        | Watching...         |
 | NieR: Automata Ver1.1a                  |        | Watching...         |
 | Misfit of Demon King Academy            | 6      | Watching S2...      |
-| In/Spectre                              | 7      | Watching S2...      |
-| Reborn to Master the Blade              |        | Watching...         |
 | My Life as Inukai-san's Dog             |        | Watching...         |
 | Revenger                                |        | Watching...         |
 | Kubo Won't Let Me Be Invisible          |        | Watching...         |
@@ -50,6 +47,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Mobile Suite Gundam: Witch From Mercury | 8      | S1P1                |
 | Houseki No Kuni                         | 7      | S1                  |
 | Mushoku Tensei                          | 8      | S1                  |
+| Tomo-Chan is a Girl                     | 8      | S1                  |
 | Eminence in Shadow                      | 8      | S1                  |
 | Komi-san                                | 8      | S1                  |
 | Horimiya                                | 8      | Complete            |
@@ -70,6 +68,7 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Danmachi (Light Novel is better)        | 6      | S4                  |
 | Tensai Ouji (Genius Prince)             | 6      | S1                  |
 | Demon Slayer                            | 7      | S1 (Movie + S2 out) |
+| In/Spectre                              | 6      | Watching S2...      |
 | Princess Connect: Re Dive               | 7      | Complete            |
 | Kill La Kill                            | 7      | Complete            |
 | Goblin Slayer                           | 7      | S1 + Movie          |
@@ -78,17 +77,42 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | Do It Yourself!!                        | 6      | Complete            |
 | Higehiro (High School Runaway)          | 5      | Complete            |
 | My Next Life as a Villainous            | 6      | S1 (S2 out)         |
+| Kakegurui                               | 6      | S2                  |
 | Taming the Final Boss, Villainous       | 4      | Complete            |
 | Wandering Witch Elaina                  | 4      | S1                  |
 | Gleipnir                                | 5      | S1                  |
-| Kakegurui                               | 6      | S2                  |
 | High School DxD                         | 5      | S3 (fuck S4)        |
+| Reborn to Master the Blade              | 4      | S1                  |
 | World's Finest Assassin                 | 5      | S1                  |
 | Persona 5 Animation                     | 2      | No                  |
 
 # Reviews
 
 Fight me.
+
+## Reborn to Master the Blade; from Hero-King to Extraordinary Squire
+
+Stormfather, get shorter names.
+
+I really wanted to like this one.  [Nagu](https://twitter.com/wooperfuri) is one of my favourite artists and hearing that they did the Light Novel illustrations made me interested...then I read the plot summary...then I read the reviews.  Episodes 1-3 were actually relatively good.  The worldbuilding genuinely had me wanting, the characters were meh, the story felt believable, and the Hyral Menas as a concept were great!  Arguably everything up to them leaving for the academy was good.
+
+Then it turned into rushed plot (yes, I know they cut a _lot_ compared to the light novel) with very little effort put into the fight scenes.  The whole point of Inglis becoming this fantastical warrior is for her fights to be interesting.  What the fuck was that "finger guns!" scene?  Sure, some people might have liked it, but I am not some people.  Every single "wow, look at how great Inglis is!" scene fell flat, including the final fight in the last episode.  So many other ways of killing big baddie would've felt more satisfying.  Instead, the anime settled back into its normal rhythm of super fast punching...why is that the way they portray all powerful opponents?  Oh, that and big magic lasers.
+
+_sigh_ This one had potential, but it just fell so flat.  Maybe the light novel is better?  Probably not.  That's a shame.
+
+## Onimai
+
+WHY ARE THEIR BOOBS SO BIG?!?!??!
+
+Anyway, the manga is really great.  Overall fine adaptation, but the voice actor for Mahiro grated me, and the animation felt...wrong.  Not the CG scenes, but the sudden leap in quality.  I could tell when they were "saving up" to go harder on a future scene.
+
+## Danmachi
+
+SOMEONE JUST DIE ALREADY.
+
+The show tricks you into thinking there are stakes, but that's a lie.  In FOURTEEN volumes, not a single bad thing has permanantly negatively affected the party.  I'm in a fiesty mood.  I think it's fine and deserves more love (especially the light novels), but grrrr.  Too much "power of friendship" for my cold, blackened heart.
+
+Ryu best girl.
 
 ## Call of the Night
 
