@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2023-03-30
+lastmod: 2023-04-20
 
 ShowToc: true
 
@@ -16,75 +16,67 @@ tags:
 
 This is just a table of anime I've seen recently enough to rank. They're ordered from favourite to least (with ones I'm currently watching being listed at the top), but I also gave them a more _objective_ rating...if that's even possible. Yes, I'm biased. No, you shouldn't watch Domestic Girlfriend.
 
-To explain the "Status" column, those marked "Watching..." with the season listed indicates that I'm currently watching that season. Those marked with just a season (ex. S2) means I've only watched up until that season, and I try to notate in parenthesis if more has come out since. Those marked "Complete" have finished their main stories. Sequel shows count as different shows. Note that shows that I'm caught up on are not marked complete until their story has finished.
+To explain the "Status" column, those marked with just a season (ex. S2) means I've only watched up until that season, and I try to notate in parenthesis if more has come out since. Those marked "Complete" have finished their main stories. Sequel shows count as different shows. Note that shows that I'm caught up on are not marked complete until their story has finished.
 
 For the hell of it, I'll leave little reviews below the table for some standouts.
 
 # Rankings
 
-| Name                                    | Rating | Status              |
-|-----------------------------------------|--------|---------------------|
-| MagiRevo                                |        | Watching...         |
-| Spy Classroom                           |        | Watching...         |
-| The Angel Next Door Spoils Me Rotten    |        | Watching...         |
-| NieR: Automata Ver1.1a                  |        | Watching...         |
-| Misfit of Demon King Academy            | 6      | Watching S2...      |
-| My Life as Inukai-san's Dog             |        | Watching...         |
-| Revenger                                |        | Watching...         |
-| Kubo Won't Let Me Be Invisible          |        | Watching...         |
-|                                         |        |                     |
-| Your Lie In April                       | 10     | Complete            |
-| Kaguya-Sama                             | 10     | S3                  |
-| Boochi the Rock!                        | 10     | S1                  |
-| Bunny Girl Senpai                       | 9      | S1 + Movie          |
-| Re:Zero                                 | 9      | S2                  |
-| Vanitas no Carte                        | 9      | S1                  |
-| Cainsaw Man                             | 9      | S1                  |
-| Sono Bisque Doll                        | 9      | S1                  |
-| Spy x Family                            | 9      | S1                  |
-| Vivy: Fluorite Eye's Song               | 8      | Complete            |
-| Full Metal Alchemist Brotherhood        | 9      | Complete            |
-| Mobile Suite Gundam: Witch From Mercury | 8      | S1P1                |
-| Houseki No Kuni                         | 7      | S1                  |
-| Mushoku Tensei                          | 8      | S1                  |
-| Tomo-Chan is a Girl                     | 8      | S1                  |
-| Eminence in Shadow                      | 8      | S1                  |
-| Komi-san                                | 8      | S1                  |
-| Horimiya                                | 8      | Complete            |
-| Konosuba                                | 7      | S2 + Movie          |
-| That Time I Got Reincarnated as a Slime | 8      | S2                  |
-| Ascendance of a Bookworm                | 8      | S3                  |
-| Domestic Girlfriend                     | 6      | S1 (finished manga) |
-| Ouran High School Host Club             | 9      | Complete            |
-| Soul Eater                              | 7      | Complete            |
-| Little Witch Academia                   | 9      | Complete            |
-| Slime Diaries                           | 8      | S1                  |
-| Akiba Maid War                          | 8      | Complete            |
-| Urusei Yatsura                          | 7      | S2                  |
-| Don't Mess With Me Miss Nagatoro        | 7      | S2                  |
-| Raven of the Inner Palace               | 7      | S1                  |
-| Onimai                                  | 6      | S1                  |
-| Call of the Night                       | 6      | S1                  |
-| Danmachi (Light Novel is better)        | 6      | S4                  |
-| Tensai Ouji (Genius Prince)             | 6      | S1                  |
-| Demon Slayer                            | 7      | S1 (Movie + S2 out) |
-| In/Spectre                              | 6      | Watching S2...      |
-| Princess Connect: Re Dive               | 7      | Complete            |
-| Kill La Kill                            | 7      | Complete            |
-| Goblin Slayer                           | 7      | S1 + Movie          |
-| Shikimori is Not Just a Cutie           | 6      | S1                  |
-| Reincarnated as a Sword                 | 5      | S1                  |
-| Do It Yourself!!                        | 6      | Complete            |
-| Higehiro (High School Runaway)          | 5      | Complete            |
-| My Next Life as a Villainous            | 6      | S1 (S2 out)         |
-| Kakegurui                               | 6      | S2                  |
-| Taming the Final Boss, Villainous       | 4      | Complete            |
-| Wandering Witch Elaina                  | 4      | S1                  |
-| Gleipnir                                | 5      | S1                  |
-| High School DxD                         | 5      | S3 (fuck S4)        |
-| Reborn to Master the Blade              | 4      | S1                  |
-| World's Finest Assassin                 | 5      | S1                  |
-| Persona 5 Animation                     | 2      | No                  |
+| Name                                            | Rating | Status              |
+|-------------------------------------------------|--------|---------------------|
+| Your Lie In April                               | 10     | Complete            |
+| Kaguya-Sama                                     | 10     | S3                  |
+| Boochi the Rock!                                | 10     | S1                  |
+| Bunny Girl Senpai                               | 9      | S1 + Movie          |
+| Re:Zero                                         | 9      | S2                  |
+| Vanitas no Carte                                | 9      | S1                  |
+| Cainsaw Man                                     | 9      | S1                  |
+| Sono Bisque Doll                                | 9      | S1                  |
+| Spy x Family                                    | 9      | S1                  |
+| Vivy: Fluorite Eye's Song                       | 8      | Complete            |
+| Full Metal Alchemist Brotherhood                | 9      | Complete            |
+| Mobile Suite Gundam: Witch From Mercury         | 8      | S1P1                |
+| Houseki No Kuni                                 | 7      | S1                  |
+| Mushoku Tensei                                  | 8      | S1                  |
+| Tomo-Chan is a Girl                             | 8      | S1                  |
+| Eminence in Shadow                              | 8      | S1                  |
+| Komi-san                                        | 8      | S1                  |
+| Horimiya                                        | 8      | Complete            |
+| Konosuba                                        | 7      | S2 + Movie          |
+| That Time I Got Reincarnated as a Slime         | 8      | S2                  |
+| Ascendance of a Bookworm                        | 8      | S3                  |
+| Domestic Girlfriend                             | 6      | S1 (finished manga) |
+| Ouran High School Host Club                     | 9      | Complete            |
+| Soul Eater                                      | 7      | Complete            |
+| Little Witch Academia                           | 9      | Complete            |
+| Slime Diaries                                   | 8      | S1                  |
+| Akiba Maid War                                  | 8      | Complete            |
+| Magical Revolution of the Reincarnated Princess | 7      | S1                  |
+| Urusei Yatsura                                  | 7      | S2                  |
+| Don't Mess With Me Miss Nagatoro                | 7      | S2                  |
+| Raven of the Inner Palace                       | 7      | S1                  |
+| Onimai                                          | 6      | S1                  |
+| Call of the Night                               | 6      | S1                  |
+| Danmachi (Light Novel is better)                | 6      | S4                  |
+| Tensai Ouji (Genius Prince)                     | 6      | S1                  |
+| Demon Slayer                                    | 7      | S1 (Movie + S2 out) |
+| In/Spectre                                      | 6      | Watching S2...      |
+| Princess Connect: Re Dive                       | 7      | Complete            |
+| Kill La Kill                                    | 7      | Complete            |
+| Goblin Slayer                                   | 7      | S1 + Movie          |
+| Shikimori is Not Just a Cutie                   | 6      | S1                  |
+| Reincarnated as a Sword                         | 5      | S1                  |
+| Revenger                                        | 6      | Complete            |
+| Do It Yourself!!                                | 6      | Complete            |
+| Higehiro (High School Runaway)                  | 5      | Complete            |
+| My Next Life as a Villainous                    | 6      | S1 (S2 out)         |
+| Kakegurui                                       | 6      | S2                  |
+| Taming the Final Boss, Villainous               | 4      | Complete            |
+| Wandering Witch Elaina                          | 4      | S1                  |
+| Gleipnir                                        | 5      | S1                  |
+| High School DxD                                 | 5      | S3 (fuck S4)        |
+| Reborn to Master the Blade                      | 4      | S1                  |
+| World's Finest Assassin                         | 5      | S1                  |
 
 # Reviews
 
