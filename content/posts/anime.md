@@ -2,7 +2,7 @@
 title: "Anime Reviews"
 description: This is just a dump of every anime I've watched listed in order from favourite to least.
 date: 1970-01-01
-lastmod: 2023-04-20
+lastmod: 2023-07-03
 
 ShowToc: true
 
@@ -24,20 +24,27 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 
 | Name                                            | Rating | Status              |
 |-------------------------------------------------|--------|---------------------|
-| Your Lie In April                               | 10     | Complete            |
-| Kaguya-Sama                                     | 10     | S3                  |
 | Boochi the Rock!                                | 10     | S1                  |
+| Your Lie In April                               | 10     | Complete            |
+| Kaguya-Sama                                     | 10     | S3 + Movie          |
 | Bunny Girl Senpai                               | 9      | S1 + Movie          |
 | Re:Zero                                         | 9      | S2                  |
+| Oshi no Ko                                      | 9      | S1                  |
 | Vanitas no Carte                                | 9      | S1                  |
-| Cainsaw Man                                     | 9      | S1                  |
+| Mobile Suite Gundam: Witch From Mercury         | 9      | Complete            |
+| Chainsaw Man                                    | 9      | S1                  |
 | Sono Bisque Doll                                | 9      | S1                  |
 | Spy x Family                                    | 9      | S1                  |
-| Vivy: Fluorite Eye's Song                       | 8      | Complete            |
 | Full Metal Alchemist Brotherhood                | 9      | Complete            |
-| Mobile Suite Gundam: Witch From Mercury         | 8      | S1P1                |
+| Heavenly Delusion                               | 9      | S1                  |
+| Hell's Paradise                                 | 8      | S1                  |
 | Houseki No Kuni                                 | 7      | S1                  |
 | Mushoku Tensei                                  | 8      | S1                  |
+| Ouran High School Host Club                     | 9      | Complete            |
+| Yamada-kun to Lvl 999                           | 8      | S1                  |
+| Vivy: Fluorite Eye's Song                       | 8      | Complete            |
+| Skip and Loafer                                 | 8      | S1                  |
+| Akiba Maid War                                  | 8      | Complete            |
 | Tomo-Chan is a Girl                             | 8      | S1                  |
 | Eminence in Shadow                              | 8      | S1                  |
 | Komi-san                                        | 8      | S1                  |
@@ -46,23 +53,24 @@ For the hell of it, I'll leave little reviews below the table for some standouts
 | That Time I Got Reincarnated as a Slime         | 8      | S2                  |
 | Ascendance of a Bookworm                        | 8      | S3                  |
 | Domestic Girlfriend                             | 6      | S1 (finished manga) |
-| Ouran High School Host Club                     | 9      | Complete            |
 | Soul Eater                                      | 7      | Complete            |
 | Little Witch Academia                           | 9      | Complete            |
+| Kill La Kill                                    | 7      | Complete            |
 | Slime Diaries                                   | 8      | S1                  |
-| Akiba Maid War                                  | 8      | Complete            |
+| Birdie Wing                                     | 6      | Complete            |
 | Magical Revolution of the Reincarnated Princess | 7      | S1                  |
 | Urusei Yatsura                                  | 7      | S2                  |
 | Don't Mess With Me Miss Nagatoro                | 7      | S2                  |
+| Yuri is my Job                                  | 6      | S1                  |
 | Raven of the Inner Palace                       | 7      | S1                  |
 | Onimai                                          | 6      | S1                  |
 | Call of the Night                               | 6      | S1                  |
 | Danmachi (Light Novel is better)                | 6      | S4                  |
+| Konosuba: Explosion                             | 6      | S1                  |
 | Tensai Ouji (Genius Prince)                     | 6      | S1                  |
-| Demon Slayer                                    | 7      | S1 (Movie + S2 out) |
-| In/Spectre                                      | 6      | Watching S2...      |
+| Demon Slayer                                    | 7      | S1                  |
+| In/Spectre                                      | 6      | S2                  |
 | Princess Connect: Re Dive                       | 7      | Complete            |
-| Kill La Kill                                    | 7      | Complete            |
 | Goblin Slayer                                   | 7      | S1 + Movie          |
 | Shikimori is Not Just a Cutie                   | 6      | S1                  |
 | Reincarnated as a Sword                         | 5      | S1                  |
